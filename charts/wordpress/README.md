@@ -8,7 +8,7 @@ WordPress is the world's most popular blogging and content management platform. 
 
 
                            
-## TL;DR
+## Como instala isso aqui
 
 ```console
 $ helm repo add bitnami https://charts.bitnami.com/bitnami
